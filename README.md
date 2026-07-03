@@ -1,7 +1,7 @@
 # Portfolio Content
 
 Content corpus for
-[portfolio-agent](https://github.com/AshishSiwach/portfolio-agent) —
+[portfolio-agent](https://github.com/AshishSiwach/portfolio-agent): 
 the recruiter-focused Q&A agent on my portfolio.
 
 ## Structure
@@ -38,5 +38,5 @@ cleanly across them:
 ## Notes
 
 This repo is intentionally public. All content here is meant to be
-readable by anyone — nothing here is more sensitive than what's on my
+readable by anyone, nothing here is more sensitive than what's on my
 LinkedIn or CV.
